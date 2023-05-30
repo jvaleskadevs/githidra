@@ -80,3 +80,17 @@ npx hardhat run scripts/set-task-secrets.ts
 ```
 
 After that, your GitHidra implementation should be working, tracking merged pull requests and assigning rewards on the blockchain.
+
+
+## Our deployments
+
+- Polygon scan IDRA [contract](https://mumbai.polygonscan.com/address/0xca32b2597e7ace6fd2b0ab1297e3e55c830edd15)
+- Polygon scan IDRAon [contract](https://mumbai.polygonscan.com/address/0x8e3be80f041c4784fa4f0e813d9d1563c6641351)
+- Polygon scan IDRAon Seasons [contract](https://mumbai.polygonscan.com/address/0x7f5cf69f81ed1b2cb6f41a7d5632da819d78ac85)
+- Polygon scan GithubContributionsRewardsManager no IDRA [contract](https://mumbai.polygonscan.com/address/0xba6e11e846994c42158659c0bd3c77e4d5c7aec8)
+- [GitHidra Gelato W3F integration github app](https://github.com/apps/gelato-w3f-integration)
+- GithubContributionsRewardsManager [task](https://beta.app.gelato.network/task/0x6ff609003f3849ca8d05c974c32e8c365f1c8eacf4f9fc7d04e25edec9cf7a5a?chainId=80001)
+- GitIDRA [task](https://beta.app.gelato.network/task/0x01efd787db2db4fd927032d94449a6848bd0cbbd7fc85937e09c036129f6769e?chainId=80001)
+- GitIDRAon [task](https://beta.app.gelato.network/task/0xa26c60630ab1ad820dcbce6095a0c03d88835434ba6096d9304a03e560f97574?chainId=80001)
+- GitIDRA onchain Seasons example [task](https://beta.app.gelato.network/task/0x9d39d387aa2c34e0852c3d7ce1a0d578c33920020d889e4b3ebff7c75fa6777d?chainId=80001)
+- Deployer, publisher, task creator, contributor... 0x33bE97e6E15301988E3F326bb7DAC3c55C8EA472
