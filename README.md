@@ -4,6 +4,8 @@ GitHidra allows teams, organizations and individuals to track merged pull reques
 ### GitHidra onchain Seasons example
 The GitHidra onchain Seasons example relevants files are `deploy/IDRAonSeasons.jvaleskadeploy.ts`, `contracts/examples/IDRAonSeasons.sol` and 
 `scripts/create-task-gitidra-seasons.ts`.
+This is not reseting the share units after distribution. I think the best option to do that will be
+combining the GitHidra with [PoB](https://github.com/jvaleskadevs/pob).
 
 ### GitHidra onchain
 The GitHidra onchain relevants files are `deploy/IDRAon.jvaleskadeploy.ts`, `contracts/examples/IDRAon.sol` and 
